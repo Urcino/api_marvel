@@ -1,0 +1,231 @@
+{
+    "personagens": [
+      {
+        "id": 1,
+        "nome": "Vingadores",
+        "img": "img/Avengers.png",
+        "texto1": "Os Vingadores, uma equipe de super-heróis a S.H.I.E.L.D (essa sigla bacana quer dizer, em inglês, “escudo”), um braço criado para tentar manter a paz no mundo a partir de super poderes.A equipe criada por Nick Fury e liderada pelo Capitão América, já teve a participação de personagens como o Hulk, Thor, Homem de Ferro, Viúva Negra, Gavião Arqueiro, Falcão, Pantera Negra, Vespa e o Homem-Formiga, entre outros."
+      },
+      {
+        "id": 2,
+        "nome": "Capitã_marvel",
+        "img": "img/Capita_marvel.png",
+        "texto1": " Capitã Marvel, a heroína mais poderosa do MCU! E embora ela não seja tão conhecida quanto Homem de Ferro, Capitão América, Homem-Aranha entre outros, saiba que a sua popularidade cresceu absurdamente nos últimos anos. De tal forma que, na segunda Guerra Civil das HQ’s, foi ela, Carol Danvers, quem bateu de frente com Tony Stark."
+      },
+      {
+        "id": 3,
+        "nome": "Capitão America",
+        "img": "img/Capitao_America.png",
+        "texto1": "O Capitão América foi o maior de uma onda de super-heróis que surgiram sob a bandeira do patriotismo norte-americano e que foram apresentados ao mundo pelas companhias de Histórias em Quadrinhos, durante os anos da Segunda Guerra Mundial. Ao lado de seu parceiro Bucky, o Capitão América enfrentou as hordas nazistas durante a Segunda Guerra Mundial, mas caiu na obscuridade após o fim do conflito."
+        
+      },
+      {
+        "id": 4,
+        "nome": "Doutor Estranho",
+        "img": "img/Doutor_estranho.png",
+        "texto1": "Primeira aparição, foi em seu filme como um Médico Cirugião, e após um acidente perdeu a precisão das mãos então teve   que deix ar a profissão e com a ajuda da anciã, desenvolveu a arte dos poderes místicos"
+      },
+      {
+        "id": 5,
+        "nome": "Drax",
+        "img": "img/Drax.png",
+        "texto1": "Arthur Douglas era um humano que teve a família morta por Thanos, é ai que entra Kronos, um ser extremamente poderoso da editora, que pegou o espírito de Arthur e o colocou dentro de um corpo mais poderoso e mortal, conhecido como Drax, o Destruidor."      },
+      {
+        "id": 6,
+        "nome": "Falcon",
+        "img": "img/Falcon.png",
+        "texto1": "Sam Wilson nasceu em um bairro barra pesada, onde seu pai, um pastor, foi morto por tentar impedir uma briga. Sam fez de tudo para continuar a ter decisôes sem ter que se envolver em maldades, mas sua tristeza e raiva o levaram a se tornar um criminoso, chamado SNAP , quando trabalhava para máfia no Harlem, Nova York, que depois agiria em Los Angeles. De volta de uma viagem ao Rio de Janeiro, onde dizia ter encontrado seu mascote falcão Asa Vermelha, foi dominado pelo Caveira Vermelha, que o usou em um de seus esquemas para enganar o Capitão América, o que acabou lhe dando poderes telepáticos com aves, através do cubo cósmico. Muitos anos depois Sam se rebelaria contra o vilão e juntaria forças com o Capitão para derrotá-lo."      },
+      {
+        "id": 7,
+        "nome": "Gamora",
+        "img": "img/Gamora.png",
+        "texto1": "Gamora  é a última de sua espécie, a Zen Whoberi, que foram exterminados pelos Badoon (no cronograma original, a espécie foi devastada pela Igreja Universal da Verdade). Thanos a encontrou quando criança e decidiu criá-la e usá-la futuramente como uma poderosa arma. Gamora foi altamente treinada por Thanos para destruir Magus (uma versão alternativa má de Adam Warlock). Thanos lhe mostrou um pouco de humanidade apenas durante sua infância, mas Gamora sempre foi muito leal ao homem que prometeu a ela a oportunidade de vingar a morte de sua família. Ela se tornou muito hábil nas artes marciais, ganhando o apelido de A mulher mais mortal em toda a galáxia"      },
+      {
+        "id": 8,
+        "nome": "Gavião Arqueiro",
+        "img": "img/Gaviao_arqueiro.png",
+        "texto1": "Iniciou sua carreira como vilão do Homem de Ferro e nessa época se envolveu com a Viúva Negra, mas o relacionamento fracassou. Posteriormente se regenerou e entrou para os Vingadores, na mesma época em que o fizeram Mercúrio e a Feiticeira Escarlate. O líder era o Capitão América. Criou muitos problemas para o Capitão, pelo seu temperamento rebelde e atração por Wanda, romance que não era aceito pelo irmão dela, Pietro. Procurando ganhar maior poder e se destacar na equipe, assumiu o uniforme e os poderes de Golias (uma das versões do Homem-Formiga) durante um certo tempo. Deixou temporariamente a equipe quando a Feiticeira Escarlate se casou com o Visão. Depois ele próprio se casaria com a heroína Harpia. O casal se juntaria aos Vingadores da Costa Oeste, onde tiveram várias brigas."      },
+      {
+        "id": 9,
+        "nome": "Groot",
+        "img": "img/Groot.png",
+        "texto1": "Groot era um Colossus Floral do Planeta X, a capital dos mundos das plantas. O rebento que viria a ser conhecido como Groot veio de um Enobled Sap-Line e dotado de engenharia superposicional quasi-dimensional...pelo menos, de acordo com Maximus, o Louco. Groot não se dava bem com seus companheiros, preferindo a companhia dos Mamíferos de Manutenção, que as outras mudas tratavam com preconceito. Depois que Groot mata um outro rebento para defender um mamífero de manutenção que estava sendo machucado, bem como liberar um sujeito humano que foi sequestrado para fins científicos, ele é exilado do planeta pelos Mestres Arbóreos. Sem ter pra onde ir, Groot começa a explorar outras galáxias."      },
+      {
+        "id": 10,
+        "nome": "Happy Hogan",
+        "img": "img/HappyHogan.png",
+        "texto1": "No início, Hogan era um personagem cômico, tanto física quanto psicologicamente: tinha um aspecto bronco, típicas de boxeador, com orelhas em formato couve-flor e pescoço largo. Com o tempo, os autores foram suavizando sua figura. Seu visual leão de chácara foi sendo abandonado e ele se tornou mais magro, mais inteligente e boa-pinta."      },
+      {
+        "id": 11,
+        "nome": "Homem de Ferro",
+        "img": "img/Homem_de_ferro.png",
+        "texto1": "Membro fundador dos Vingadores, o empresário Tony Stark também foi seu principal financiador. Stark tem um passado um pouco mais dramático, pois sucumbiu ao alcoolismo, o que foi uma tragédia para o Homem de Ferro. Impossibilitado de usar a armadura, a cedeu para seu melhor amigo, o tenente coronel James Rhodes, o Rodey, que agiu como um Homem de Ferro substituto por algum tempo, antes de ter uma armadura para si e se chamar War Machine ou Máquina de Guerra (mais sobre ele na Parte II deste post) . Quando voltou a ser o Homem de Ferro, Stark adotou uma postura totalmente diferente: mais durão, mais implacável, mais líder e ao mesmo tempo, mais ciente de suas limitações éticas, morais e alcoolicas."      },
+      {
+        "id": 12,
+        "nome": "Homem Formiga",
+        "img": "img/Homem_Formiga.png",
+        "texto1": "Na trama, Pym é um cientista que, nos anos 1960, descobre as partículas especiais (batizadas com seu nome) que permitem diminuir objetos e seres. Ele se torna um agente secreto da SHIELD durante a Guerra Fria e, depois, conta com a ajuda de Janet Van Dyne, a Vespa, que vem a ser sua esposa e mãe de sua filha, Hope. Quando os agentes infiltrados da HIDRA dentro da SHIELD começaram a tentar sintetizar as Partículas Pym, o cientista deixou a agência e se aposentou. Mas a pesquisa seguiu e atingiu seu objetivo, motivo pelo qual, no presente, Pym recruta o ladrão “de bom coração” Scott Lang (Paul Rudd) para tomar o seu lugar e se tornar o novo Homem-Formiga."      },
+      {
+        "id": 13,
+        "nome": "Hulk",
+        "img": "img/Hulk.png",
+        "texto1": "Bruce estava presente no bunker de instrumentação na unidade de teste para o primeiro teste de detonação subterrânea da Bomba Gama. Observando que um civil violou a segurança e entrou na área de teste limitado, Bruce pede ao colega Igor Starsky para atrasar a contagem regressiva quando ele tentou salvar o civil. Starsky, secretamente um agente soviético, não fez nada, confiante de que Bruce morresse na explosão, e que o projeto seria interrompido. Ao chegar no local de teste, Bruce conhece um adolescente chamado Rick Jones, ele o joga em uma trincheira protetora. Antes de Bruce poder ficar a salvo, a bomba detona e intensas ondas de radiação atingem a superfície. Banner é irradiado com partículas carregadas de alta radioatividade. Devido a um fator genético desconhecido em seu corpo, ele não foi morto pela radiação, que em vez disso fez com que ele frequentemente se transforme no monstro humanóide chamado de Hulkpelos militares. Após a transformação Bruce passou a fugir dos militares, conseguindo manter sua identidade em segredo com o auxílio de Rick."      },
+      
+      {
+        "id": 15,
+        "nome": "Korg",
+        "img": "img/Korg.png",
+        "texto1": "Com a estreia de Thor: Ragnarok, muitos fãs descobriram o sensacional Korg, um alienígena interpretado por Taika Waititi, o próprio diretor do filme"      },
+      {
+        "id": 16,
+        "nome": "Loki",
+        "img": "img/Loki.png",
+        "texto1": "Loki é um deus ou um gigante da mitologia nórdica. Deus da trapaça e da travessura, também está ligado à magia e pode assumir a forma que quiser. Ele não pertence aos Aesir, embora viva com eles. É frequentemente considerado um símbolo da maldade, traiçoeiro, de pouca confiança; e, embora suas artimanhas geralmente causem problemas a curto prazo aos deuses, estes frequentemente se beneficiam, no fim, das travessuras de Loki. Ele está entre as figuras mais complexas da mitologia nórdica."      },
+      {
+        "id": 17,
+        "nome": "Mantis",
+        "img": "img/Mantis.png",
+        "texto1": "Mantis é a meia-Vietnamita, meio alemã, filha de Gustav Brandt—Libra—e nasceu em Hue, Vietname (nos cinemas ela é uma alienígena). Em sua infância, seu pai deixa a ela, no Vietnã, no Templo de o estrangeiro Sacerdotes do Pama, uma seita de Krees. Os Krees acreditam que ela pode tornar-se o Celeste a virgem e o companheiro com o mais velho Cotati na Terra para se tornar a mãe do Celeste Messias, o mais importante do universo."      },
+      {
+        "id": 18,
+        "nome": "Maria Hill",
+        "img": "img/MariaHill.png",
+        "texto1": "Maria Hill era apenas uma simples operante, mas que vinha sendo vista com outros olhos pelo governo, sempre apontada como uma ótima agente.Após a Guerras Secretas de Nick Fury, Hill foi indicada como a nova diretora da S.H.I.E.L.D., logo depois da fuga de Fury. Ela comandou com punhos de ferro e era autoritária. Nenhum dos heróis que a encontrava gostava de sua arrogância e de sua prepotência. Mas ela podia ser assim, pois dispõe de muitos recursos."      },
+      {
+        "id": 19,
+        "nome": "Mbaku",
+        "img": "img/Mbaku.png",
+        "texto1": "Um dos destaques do filme de Pantera Negra é M’Baku, o líder do culto ao Gorila Branco. O personagem é nativo da nação africana de Wakanda, sendo um de seus maiores guerreiros, atrás apenas de T'Challa."      },
+      {
+        "id": 20,
+        "nome": "Miek",
+        "img": "img/Miek.png",
+        "texto1": "Animal de estimação do Korg"      },
+      {
+        "id": 21,
+        "nome": "Nebulosa",
+        "img": "img/Nebula.png",
+        "texto1": "No filme Guardiões da Galáxia, Nebulosa, interpretada por Karen Gillian – continua sendo uma vilã, o que não resta a menor dúvida, mas em vez de ser uma neta distante de Thanos, é sua filha “adotiva” e fortemente doutrinada como Gamora. Na verdade, sua relação é muito mais próxima e serve como chicote de transmissão do titã para controlar Ronan, o Acusador, mas quando ela percebe que é dispensável para o pai, decide que é hora de sair pelo universo e contar a sua própria história."      },
+      {
+        "id": 22,
+        "nome": "Nick Fury",
+        "img": "img/NickFury.png",
+        "texto1": "Nick Fury e Hargrove chamam a atenção do tenente Happy Sam Sawyer que os alistou em uma missão especial na Holanda. Nesta missão Fury fez conhecimento de seu futuro amigo, o homem forte de circo Timothy Dum Dum Dugan. Vendo a ameaça nazista em primeira mão, Hargrove foi movido para dizer que se alistaria, e Fury disse que o seguiria. No entanto Fury não se alistou até 1941, onde ele recebeu nove semanas de treinamento básico em Fort Dix sem Hargrove, na esperança de enfrentar a onda de desemprego nos Estados Unidos. Eventualmente, Fury se reuniu com Hargrove, ambos ficando estacionados em Pearl Harbor. Após o ataque japonês a Pearl Harbor, Fury foi estimulado pela morte de Hargrove durante o ataque para se juntar aos Rangers dos EUA, e foi eventualmente recrutado e reuniu-se com o Capitão Sawyer que lhe atribuiu o comando do Primeiro Esquadrão de Ataque; Também conhecido como Comando Selvagem, um grupo de soldados especialmente treinados que realizaram algumas das missões mais perigosas da guerra. Juntamente com Dum Dum Dugan como seu segundo no comando, Fury levou Gabe Jones, Robert Reb Ralston, Dino Manelli, Izzy Cohen e Jonathan Juniper, bem como suas adições posteriores Percival Pinkerton e Eric Koenig contra os gostos de Caveira Vermelha, Barão Heinrich Zemo, e outros vilões do Eixo, lutando ao lado de heróis de guerra como o Capitão América e Bucky. Como líder dos Comando Selvagem, Fury golpeou golpe após golpe os nazistas e seus aliados através de missões que variaram de infiltração profunda atrás das linhas inimigas para o trabalho disfarçado e até mesmo algumas ações de frente."      },
+      {
+        "id": 23,
+        "nome": "Okoye",
+        "img": "img/Okoye.png",
+        "texto1": "Quando Okoye era apenas uma adolescente ela se alistou nas Dora Milaje, um grupo de seguranças que serviam o Rei de Wakanda. Para além de garantirem a segurança do rei, as Dora Milaje trabalhavam também como serviçais e muitas delas treinavam para um dia serem a próxima rainha de Wakanda. No entanto Okoye integrou uma nova versão das Dora Milaje, que tinha como única tarefa defender o reino de Wakanda. O rei T'Challadecidiu que as Dora Milaje não tinham que ter nenhuma aspiração a ser esposas do rei e deviam ser respeitadas como as principais defensoras de Wakanda."
+     },
+      {
+        "id": 24,
+        "nome": "Pantera Negra",
+        "img": "img/Pantera_negra.png",
+        "texto1": "Conheça a história de T'Challa, príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores. Entre as suas habilidades estão a velocidade, inteligência e os sentidos apurados."
+      },
+      {
+        "id": 25,
+        "nome": "Pepper Potts",
+        "img": "img/PepperPotts.png",
+        "texto1": "No início, Pepper Potts possuía um papel muito estereotípico e simplório no universo da Marvel, sendo apenas o interesse amoroso e a assistente pessoal de Tony Stark, o Homem de Ferro. Era a típica princesa em perigo a ser resgatada pelo herói de armadura brilhante . No entanto, o tempo passou e esta personagem foi assumindo um papel cada vez mais ativo nesse mundo de super-heróis. "      },
+      {
+        "id": 26,
+        "nome": "Red Skull",
+        "img": "img/RedSkull.png",
+        "texto1": "Responsavél por cuidar da jóia da alma "     },
+      {
+        "id": 27,
+        "nome": "Rocket",
+        "img": "img/Rocket.png",
+        "texto1": "Rocket Raccoon atuou como o Guardião do Quadrante Keystone, uma área do espaço isolada do resto do cosmos pelo chamado Muro Galático. Rocket também foi o capitão da espaçonave Rack n Ruin. Ele e seu companheiro Wal Russ (uma morsa falante) são do planeta Halfworld, uma colônia abandonada para doentes mentais, onde animais são geneticamente manipulados para dar-lhes inteligência a níveis humanos e a capacidade de andar em duas patas para muitos se tornarem cuidadores dos detentos. Rocket foi chefe da segurança que protegia a colônia de ameaça distintas."      },
+
+      {
+        "id": 28,
+        "nome": "Scarlet Witch",
+        "img": "img/ScarletWitch.png",
+        "texto1": "Wanda Maximoff foi sequestrada da Sérvia e trazida para a Montanha Wundagore, base do Alto Evolucionário. Durante anos, ela e seu irmão gêmeo, Pietro, acreditavam que eram filhos do casal de ciganos, Django e Marya Maximoff.[2] O Alto Evolucionário supostamente sequestrou os gêmeos quando eram bebês, experimentou-os e, depois de se assustar com os resultados, os devolveu a Wundagore, disfarçados de mutantes comuns.[3] Como adolescentes, Wanda e Pietro descobriram que tinham habilidades sobre-humanas incomuns. Quando Django começou a roubar comida para alimentar sua família faminta, aldeões enfurecidos atacaram o acampamento cigano. Usando sua velocidade fenomenal, Pietro fugiu do local com sua irmã. As circunstâncias da separação dos dois de sua família eram tão traumáticas que somente na idade adulta eles puderam se lembrar de qualquer coisa, exceto os melhores detalhes de sua infância. Nos próximos anos, Wanda e Pietro perambularam pela Europa central, vivendo da terra."      },
+      
+      {
+        "id": 29,
+        "nome": "Shuri",
+        "img": "img/Shuri.png",
+        "texto1": "Shuri a irmã caçula de T Challa, o Pantera Negra, Tony Stark pensaria duas vezes antes de se apresentar como gênio, bilionário, playboy, filantropo.Afinal, ela tem só 16 anos, mas já é capaz de deixar o “Homem de Ferro” pra trás (e o Hulk também, depois de uma conversa em Vingadores: Guerra Infinita em que Bruce Banner fica de queixo caído com as ideias dela para impedir Thanos de roubar a Jóia do Infinito que estava com o Visão). "      },
+      
+      {
+        "id": 30,
+        "nome": "Spiderman",
+        "img": "img/Spiderman.png",
+        "texto1": "Deriva seus poders após uma picada de aranha, cria agilidade e outros poderes."
+      },
+      
+      {
+        "id": 31,
+        "nome": "Star lord",
+        "img": "img/Starlord.png",
+        "texto1": "O universo estava em um estado muito frágil após os eventos da Aniquilação e uma série de outras fissuras na realidade estavam começando a se formar e se espalhar. A fim de prevenir o colapso do universo que estava próximo, Mantis telepaticamente convocou Adam Warlock, Phyla-Vell, Rocket Raccoon, Drax O Destruidore Gamora para se juntar à sua equipe.[1] O grupo estabilizou uma base na cabeça decepada de um Celestial chamado Lugar nenhum. Quando a farsa Senhor das Estrelas foi descoberta Mantis saiu da equipe em desgosto e partiu em suas próprias missões. O Senhor das Estrelas intimação dos Kree e ficou chocado ao ver que eles estão reconstruindo o Espiral de Phalanx para proteger o espaço Kree. Ao discutir com Ronan ele é jogado na Zona Negativa. Ele foi então forçado a ajudar o governador recém-nomeado da Zona Negativa, o rei Blastaar a assumir a Super Prisão 42 para que ele pudesse ter acesso ao seu portal para a terra. O Senhor das Estrelas foi então enviado à Super Prisão 42 afim de convencê-los a abrir a porta e se render. Uma vez lá dentro, ele falou com os líderes não oficiais de 42 e disse-lhes para não se render, mas apenas Jack Flag concordou com ele. As portas foram abertas e o exército de Blastaar foi desencadeado. Ao saber de sua traição, Blastaar enviou seus homens para encontrar e matar o Senhor das Estrelas. Correndo pelas suas vidas, o Senhor das Estrelas e Jack Flag localizaram um telepata em 42 para pedir ajuda aos Guardiões, mas antes disso eles conseguiram fugir."      },
+      
+      {
+        "id": 32,
+        "nome": "Thanos",
+        "img": "img/Thanos.png",
+        "texto1": "Thanos o vilão que quer a destruição de todo o universo, e consegue perdendo o seu bem mais precioso."
+        
+      },
+      
+      {
+        "id": 33,
+        "nome": "Thor",
+        "img": "img/Thor.png",
+        "texto1": "Filho de Odin, o deus supremo de Asgard (lar dos deuses nórdicos) e de Jord, a deusa da Terra (também chamada de Midgard ou Gaia), Thor Odinson é o príncipe de um outro mundo existente numa dimensão acima de Midgard, a Terra. Nesse mundo existem outros diversos reinos, como por exemplo, a terra dos gigantes de gelo (Jotunheim e Valhala, o lugar para onde vão os espíritos dos guerreiros que morrem em combate). Trata-se justamente de uma adaptação da mitologia nórdica, traduzida no Universo Marvel como apenas mais uma dimensão paralela. Os nove mundos de Asgard são ligados pela Ponte do Arco-Íris (Bifrost), que é guardada por Heimdall, o eterno guardião da ponte. Thor possui um irmão adotivo chamado Loki, o traiçoeiro deus das trapaças e mentiras. Devido à sua má índole e à inveja que sente por Thor, por ser este o filho mais querido de Odin, Loki está sempre a tramar a morte do irmão e a posse de Asgard.Em sua juventude, Thor Odinson tinha comportamento arrogante e impulsivo e, em uma de suas aventuras, cometeu uma grave falta."      },
+      
+      {
+        "id": 34,
+        "nome": "Valkiria",
+        "img": "img/Valkyrie.png",
+        "texto1": "As valquírias ou valkirias (nórdico antigo: valkyrja, lit. a que escolhe os mortos), na mitologia nórdica, são dísir, deidades femininas menores que serviam Odin sob as ordens de Freya. O seu propósito era eleger os mais heróicos guerreiros mortos em batalha e conduzi-los ao salão dos mortos, Valhalla, regido por Odin, onde se convertiriam em einherjar. A escolha servia metade daqueles que morriam em batalha (a outra metade seguia para o campo de Freyja, na vida após a morte, denominado Fólkvangr). Odín precisava de guerreiros para que lutassem a seu lado na batalha do fim do mundo, Ragnarök. A sua residência habitual era Vingólf, situado próximo de Valhalla. O dito salão contava com quinhentas e quarenta portas por onde entravam os heróis derrotados para que as guerreiras os curassem, deleitando-se com a sua beleza e onde também serviam hidromel e cuidavam da louça de barro e vasilhas para beber.Estas surgem também como amantes de heróis e outros mortais, em que, por vezes, são descritas como filhas da realeza, ocasionalmente acompanhadas por corvos, e de vez em quando incorporadas a cisnes ou cavalos.Parece, no entanto, que não existia uma distinção muito clara entre as valquírias e nornas. De facto, Skuld é tanto uma valquíria como uma norna e em Darraðarljóð (líneas 1-52), as valquírias tecem as redes da guerra.As valquírias são mencionadas em Edda em verso, um livro de poemas compilado no século XIII a partir de fontes históricas; a Edda em prosa e Heimskringla (de Snorri Sturluson), e na saga de Njáls, uma saga islandesa, todas escritas no século XIII. As valquírias surgem em toda a poesia escáldica, no encanto do século XIV, e em várias inscrições rúnicas. Segundo a Edda em prosa(Gylfaginning 35), Odin nomeia valquíriaspara todas as batalhas. Estas atribuem a morte aos homens e comandam a vitória. Gunnr e Róta duas valquírias e a norna mais jovem, chamada Skuld, sempre cavalgavam para eleger quem deveria morrer e para chefiar as matanças.Outrossim, a liberdade poética permitiu que o termo 'valquíria' se aplicasse também a mulheres mortais na poesia nórdica antiga, ou transcrevendo Skáldskaparmál de Snorri Sturluson no que diz respeito à utilização de vários termos empregues para caracterizar as mulheres, 'as mulheres são também chamadas metafóricamente pelos nomes das Ásynjur ou das valquírias, ou ainda das nornas. Os cognatos do inglês antigo wælcyrge e wælcyrie surgem em vários manuscritos antigos ingleses, e estudiosos têm explorado a possibilidade de os termos aparecerem a inglês antigo por influência nórdica, ou por refletir uma tradição também nativa entre os pagãos anglo-saxões. Teorias académicas têm sido elaboradas propondo uma relação entre as valquírias, as nornas, as dísir, as seiðkona e as donzelas escudeiras, no qual todas menos as últimas são descritas como figuras sobrenaturais associadas com o destino. Escavações arqueológicas por toda a Escandinávia revelaram amuletos de teoricamente representam as valquírias. Na cultura moderna, valquírias têm sido objeto de obras de arte, obras musicais, videojogos e poesia."      },
+      
+      {
+        "id": 35,
+        "nome": "Viúva negra",
+        "img": "img/Viuva_negra.png",
+        "texto1": "Existem vários relatos do início da vida de Romanova. Um relato diz que o Partido Nazista colocou fogo no edifício onde Natasha vivia em Stalingrad (Volgogrado atualmente) e sua mãe a atirou pela janela para um soldado Russo antes de morrer no fogo. O nome do soldado era Ivan Petrovitch e ele cuidou de Natasha por toda a sua vida, permanecendo ao seu lado como seu motorista.Enquanto sob a proteção de Ivan, muitos adversários tentaram a atacar. Barão von Strucker sequestrou Natasha e a apresentou para o Tentáculo em Madripoor. Lá ela viria a se tornar a Mestre Assassina, até que o Capitão América, Logan e Ivan a salvaram. Enquanto Natasha crescia e amadurecia, ela provou ser uma incrível atleta e estudiosa, além de ganhar distinção na URSS como bailarina."      },
+      
+      {
+        "id": 36,
+        "nome": "War Machine",
+        "img": "img/WarMachine.png",
+        "texto1": "Máquina de Combate ou como é conhecido também como Patriota de Ferro, é o alter ego de James Rhodes, um super-herói do Universo Marvel que utiliza uma armadura de alta tecnologia construída por Tony Stark."      },
+      
+      {
+        "id": 37,
+        "nome": "Wasp",
+        "img": "img/Wasp.png",
+        "texto1": "Vespa é uma personagem de histórias em quadrinhos da editora norte-americana Marvel Comics. Além de grande heroína e fundadora dos Vingadores, tornou-se também uma estilista extremamente renomada e altamente conceituada obtendo uma carreira de sucesso no Universo Marvel."      },
+      
+      {
+        "id": 38,
+        "nome": "Winter Soldier",
+        "img": "img/WinterSoldier.png",
+        "texto1": "Como um jovem garoto, James Buchanan Barnes perdeu o pai (um soldado que participara da Segunda Guerra Mundial), e foi então aprovado por Camp Leigh como seu mascote, autonomeando-se Bucky. Foi aqui que ele descobriu a identidade do Capitão América.Após esses acontecimentos, Bucky sofreu um rigoroso treinamento e foi designado para ser auxiliar da PAC, acompanhando-o em muitas aventuras, tendo trabalhado duas vezes com os Invasores originais. Passado algum tempo depois, em uma última missão contra o Barão Zemo, Bucky e o Capitão América saltaram sobre um avião experimental em uma tentativa arriscada de desarmar bombas. Infelizmente, as bombas detonaram, fazendo com que o Capitão caísse no Atlântico Norte, onde viria a ser encontrado e descongelado pelos Vingadores.Contudo, as forças americanas nunca encontraram o corpo de Bucky, presumindo que estivesse morto. Sendo considerado como um caso encerrado para os americanos, ele foi encontrado e revivido pelo russo General Vasily Karpov em nova série de histórias do Capitão América lançadas a partir de 2005. O primeiro ano das aventuras foram publicadas no Brasil em 2011, em volume encadernado da Editora Panini . Ao acordar, Bucky não se lembrou de sua identidade, dando uma oportunidade para Karpov reprogramar sua mente e transformá-lo em um assassino conhecido por Soldado Invernal. Ele foi enviado por todo o globo, cometendo assassinatos políticos com enormes efeitos sobre a Guerra Fria. No entanto, sua implantação de memória causou instabilidade mental e ele foi mantido em imobilismo entre missões para impedir que se rebelasse por completo. No século XXI, tendo envelhecido apenas 5 anos desde seu acidente, devido ao longo tempo em animação suspensa, foi controlado pelo russo Aleksander Lukin (um menino adotado por Karpov durante uma batalha da Segunda Guerra Mundial), dono da Corporação Kronas e que depois foi dominado pelo Caveira Vermelha através do cubo cósmico."      },
+      
+      {
+        "id": 39,
+        "nome": "Wong",
+        "img": "img/Wong.png",
+        "texto1": "Wong é um personagem fictício que aparece nos quadrinhos americanos publicados pela Marvel Comics. Ele é o ajudante e valet do Doutor Estranho, o Feiticeiro Supremo da Terra. "      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+    ]
+  }
